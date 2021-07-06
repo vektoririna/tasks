@@ -1,1 +1,1 @@
-export default 'F. V. Melnikov';
+export default 'Irina Sotokina';
